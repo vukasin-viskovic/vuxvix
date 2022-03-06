@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vukašin Višković. I obtained my MA in Sociology from Berlin's Freie University, and I'm passionate about entering the field of Data Science and Data Analytics.
+- 👀 I’m interested in improwing my portfolio and gaining more firsthand experience on working with data in the business sector.
+- 🌱 I’m currently brushing up on my NumPy/Pandas/Matplotlib skills.
+- 💞️ I’m looking to collaborate on various Data related tasks with social impact.
+- 📫 You can contact me through: viskovic.vukasin@gmail.com; www.linkedin.com/in/vukasin-viskovic
